@@ -61,7 +61,9 @@ We should send this offer more.
 Top Three offers -
 1. fafdcd668e3743c1bb461111dcafc2a4
 2. 2298d6c36e964ae4a3e7e9706d1fb8c2
-3. f19421c1d4aa40978ebb69ca19b0e20d We should send these more in general.
+3. f19421c1d4aa40978ebb69ca19b0e20d 
+
+We should send these more in general.
 
 The below mentioned offers didn't result in any conversion. We should stop sending these particular offer.
 - 5a8bc65990b245e5a138643cd4eb9837
@@ -75,7 +77,9 @@ NOTE:
   - They enjoy the product & we need not send offers to them.
 - We have also created least converting user list (total Ids 4037). 
   - These users have converted but has potential to convert more. 
-  - These user ids can be used for remarketing by offering better offers so that they convert more.
+  - These user ids can be used for re-marketing by offering better offers so that they convert more.
+
+_Next steps include building a simple machine learning model to predict the users who has high chance of conversion (completing the offers) based on offer viewed and completed data._
 
 # Libraries Used
 - pandas v0.23.3 
