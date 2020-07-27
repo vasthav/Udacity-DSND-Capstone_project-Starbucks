@@ -2,6 +2,8 @@
 
 The Starbucks Udacity Data Scientist Nanodegree Capstone challenge data set is a simulation of customer behavior on the Starbucks rewards mobile application. Periodically, Starbucks sends offers to users that may be an advertisement, discount, or buy one get on free (BOGO). An important characteristic regarding this dataset is that not all users receive the same offer.
 
+** Link to the blog post @ [vasthav.com](https://vasthav.com/posts/udacity-dsnd-starbucks-capstone-project/)**
+
 # Starbuck's Capstone Challenge
 
 ## Dataset overview
@@ -51,7 +53,7 @@ Based on the analysis we observed that
 Top three two age brackets and gender groups that result in highest number of transactions and in turn revenue are:
 - 60+ Male, 60+ Female
 - 50-59 Male, 50-59 Female
-- 40-49 Male, 40049 Female
+- 40-49 Male, 40-49 Female
 
 There is not much difference in income gap between the users who transact based on their age, and gender groups.
 
