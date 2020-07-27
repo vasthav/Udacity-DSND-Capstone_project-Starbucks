@@ -72,7 +72,7 @@ See the offer-wise metrics and observations in the iPython Notebook.
 NOTE:
 - We have also created top converting user list (total Ids 3941). 
   - These users are like 1000 true fans. 
-  - They enjoy the product & we need to send offers to them.
+  - They enjoy the product & we need not send offers to them.
 - We have also created least converting user list (total Ids 4037). 
   - These users have converted but has potential to convert more. 
   - These user ids can be used for remarketing by offering better offers so that they convert more.
