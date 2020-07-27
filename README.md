@@ -38,7 +38,9 @@ The basic task is to use the data to identify which groups of people are most re
    - time: (numeric) hours after start of test
    
 # Motivation 
-The problem that I chose to solve was to build a set of heuristics to help decide what offers works best for certain age and gender demographics. I chose a simple approach where the users who converted (completed offer) were analysed based on gender, age, and income bracket. At the end we create two user list, one of top users and user list and the second on potential customers based on transaction behavior, which can be used in re-marketing different products. This is the simplest form. And given the marketing cost it's
+The problem that I chose to solve was to build a set of heuristics to help decide what offers works best for certain age and gender demographics. I chose a simple approach where the users who converted (completed offer) were analysed based on gender, age, and income bracket. 
+
+At the end we create two user list, one of top user's user id list and the second user id list of potential customers based on transaction behavior, which can be used in re-marketing different products. And given the marketing cost these lists are helpful to target other products to true fans (First list) and use more offers to capture more revenue from the potential users (second list).
 
 # Observations
 Based on the analysis we observed that
