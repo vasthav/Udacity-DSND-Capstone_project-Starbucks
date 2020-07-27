@@ -2,7 +2,7 @@
 
 The Starbucks Udacity Data Scientist Nanodegree Capstone challenge data set is a simulation of customer behavior on the Starbucks rewards mobile application. Periodically, Starbucks sends offers to users that may be an advertisement, discount, or buy one get on free (BOGO). An important characteristic regarding this dataset is that not all users receive the same offer.
 
-** Link to the blog post @ [vasthav.com](https://vasthav.com/posts/udacity-dsnd-starbucks-capstone-project/)**
+**Link to the blog post @ [vasthav.com](https://vasthav.com/posts/udacity-dsnd-starbucks-capstone-project/)**
 
 # Starbuck's Capstone Challenge
 
